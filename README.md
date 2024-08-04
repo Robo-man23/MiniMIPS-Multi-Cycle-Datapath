@@ -29,7 +29,7 @@ I created multiple submodules for input and output selection, Dual port RAM, shi
   </tr>
   <tr>
     <td>Executes multiple instructions in a single clock cycle</td>
-    <td>Complex to design.
+    <td>Complex to design.</td>
   <tr>
     <td>Less Delay</td>
     <td>No parallel processing is available.</td>
